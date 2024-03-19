@@ -4,7 +4,7 @@ This Mars Rover problem in a simple HTML page with JavaScript file;
 
 ## Open the project in vscode
 
-## Open the page from test.html with LiveServer
+## Open the page from test.html with Live Server
 
 ## The Problem code in the JS file
 
